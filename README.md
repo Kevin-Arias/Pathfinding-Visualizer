@@ -7,6 +7,5 @@ Designed and developed an interactive web application using JavaScriptfor visual
 </p>
 
 
-
 ## Instructions On How To Use
 
