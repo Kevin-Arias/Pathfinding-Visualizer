@@ -13,7 +13,7 @@ Designed and developed an interactive web application using JavaScriptfor visual
 3. Once server is running, open your browser and go to localhost:8000 
 4. Program should now be running and on display. Have fun and happy pathfinding!
 
-\n
+<br>
 
 * Users can hold and drag starting and ending node (green and red respectively)
 * Users can also click and drag on any cells and a barrier will be created.
