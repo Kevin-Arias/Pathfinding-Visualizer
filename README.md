@@ -8,4 +8,7 @@ Designed and developed an interactive web application using JavaScriptfor visual
 
 
 ## Instructions On How To Use
-
+1. Download or clone the project and change directory to src file.
+2. Begin server on terminal. I use the following command: python -m http.server
+3. Once server is running, open your browser and go to localhost:8000 
+4. Program should now be running and on display. Have fun and happy pathfinding!
